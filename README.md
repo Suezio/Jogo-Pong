@@ -31,7 +31,7 @@ npm run test:watch  # roda testes de unidade em watch mode
 npm run test:e2e    # executa testes end-to-end (Playwright)
 ```
 
-> **Observação:** para rodar os testes E2E é necessário ter instalado os navegadores do Playwright (`npx playwright install`). Este comando já foi executado durante a preparação do projeto.
+> **Observação:** para rodar os testes E2E é necessário ter instalado os navegadores do Playwright (`npx playwright install`).
 
 ## ✅ Qualidade e cobertura de testes
 
